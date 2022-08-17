@@ -57,6 +57,10 @@ Balance the pole with these constraints, by appropriately having the cart accele
 - [ ]  Each time a failure occurs, re-estimate the transition probabilities and rewards as the average of the observed values (if any). 
 - [ ]  Repeat previous steps until convergence (once several consecutive attempts (defined by the parameter `NO LEARNING THRESHOLD`) to solve Bellman’s equation all converge in the first iteration since this implies that the estimated model has stopped changing significantly).
 
+## Results
+
+![Graph of the results](./images/sample_demo.gif)
+
 ## Author
 
 Avrum Noor
