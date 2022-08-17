@@ -1,6 +1,5 @@
 """
-Taken from
-CS 229 Machine Learning
+Taken from CS 229 Machine Learning
 """
 from __future__ import division, print_function
 from math import sin, cos, pi
