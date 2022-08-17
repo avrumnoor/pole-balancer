@@ -23,8 +23,15 @@ Install the following Python packages:
 - scipy
 - pillow
 
+Clone
+```
+git clone 
+```
+
 Run 
-`python polebalancer.py`
+```
+python polebalancer.py
+```
 
 ***
 
