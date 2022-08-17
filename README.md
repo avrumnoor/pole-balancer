@@ -40,3 +40,4 @@ Avrum Noor
 ## Acknowledgements
 
 [Anand Avati](https://avati.github.io/)
+Stanford Machine Learning Coursework 
