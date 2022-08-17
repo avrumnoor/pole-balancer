@@ -1,6 +1,6 @@
 # Pole Balancer
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ## About Pole Balancer
 Pole Balancer is a Python program that uses reinforcement learning (RL) to automatically design a policy for the classic controls problem of a cart balancing a pole. Through Markov decision processes framework, we can perform reinforcement learning without having any explicit knowledge of the physics of the underlying system, in our case, the pole on the cart.
