@@ -25,7 +25,7 @@ Install the following Python packages:
 
 Clone
 ```
-git clone 
+git clone https://github.com/avrumnoor/PoleBalancer.git
 ```
 
 Run 
