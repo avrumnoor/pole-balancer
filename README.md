@@ -16,7 +16,7 @@ Pole Balancer is a Python program that uses reinforcement learning (RL) to autom
 - Ubuntu 18.04+, macOS 10.15+ and Windows 10+ (64-bit)
 - At least 5GB of memory
 - Anaconda/Miniconda
-- Python 3.9 or above
+- Python 3.6 or above
 - A Python IDE (Jupyter/PyCharm)
 
 ## Getting Started
