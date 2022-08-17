@@ -18,9 +18,19 @@ A thin pole is hinged to a cart. The cart moves laterally on a smooth table surf
 
 Balance the pole with these constraints, by appropriately having the cart accelerate left and right.
 
+## Algorithm
+- [ ] Estimate a model (i.e., transition probabilities and rewards) for the underlying MDP.
+- [ ] Obtain a value function by solving Bellman’s equations for this estimataion to obtain a value function.
+- [ ] Act greedily with respect to this value function.
+- [ ] Initially, each state has estimated reward zero, and the estimated transition probabilities are uniform.
+- [ ]  As the program goes along taking actions, it will gather observations on transitions and rewards, which it can use to get a better estimate of the MDP model.
+- [ ]  Store the state transitions and reward observations each time, and update the model and value function/policy only periodically. 
+- [ ]  Each time a failure occurs, re-estimate the transition probabilities and rewards as the average of the observed values (if any). 
+- [ ]  Repeat previous steps until convergence (once several consecutive attempts (defined by the parameter `NO LEARNING THRESHOLD`) to solve Bellman’s equation all converge in the first iteration since this implies that the estimated model has stopped changing significantly.
+
 ## Author
 
-###Avrum Noor###
+Avrum Noor
 
 <a href="https://www.buymeacoffee.com/avrumnoor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a> 
 
@@ -29,4 +39,4 @@ Balance the pole with these constraints, by appropriately having the cart accele
 
 ## Acknowledgements
 
-###[Anand Avati](https://avati.github.io/)###
+[Anand Avati](https://avati.github.io/)
