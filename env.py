@@ -1,6 +1,6 @@
 """
+Taken from
 CS 229 Machine Learning
-Question: Reinforcement Learning - The Inverted Pendulum
 """
 from __future__ import division, print_function
 from math import sin, cos, pi
