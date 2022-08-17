@@ -1,5 +1,7 @@
 # Pole Balancer
 
+![Forks](https://img.shields.io/github/forks/avrumnoor/PoleBalancer?style=social) ![Stars](https://img.shields.io/github/stars/avrumnoor/PoleBalancer?style=social) 
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
