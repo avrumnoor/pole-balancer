@@ -59,7 +59,7 @@ Balance the pole with these constraints, by appropriately having the cart accele
 
 ## Results
 
-![Graph of the results](./images/sample_demo.gif)
+![Graph of the results](./images/results.png)
 
 ## Author
 
