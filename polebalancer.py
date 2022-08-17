@@ -1,6 +1,5 @@
 """
-CS 229 Machine Learning
-Question: Reinforcement Learning - The Inverted Pendulum
+PoleBalancer.py
 """
 from __future__ import division, print_function
 from env import CartPole, Physics
