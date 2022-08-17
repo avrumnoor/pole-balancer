@@ -12,3 +12,9 @@ A thin pole is hinged to a cart. The cart moves laterally on a smooth table surf
 
 ## Program Objective
 Balance the pole with these constraints, by appropriately having the cart accelerate left and right.
+
+## Author
+Avrum Noor
+
+## Acknowledgements
+Anand Avati 
