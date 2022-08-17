@@ -18,10 +18,8 @@ Pole Balancer is a Python program that uses reinforcement learning (RL) to autom
 ## Getting Started
 
 Install the following Python packages:
-- matplotlib=2.2.2
-- numpy=1.15.0
-- pip=10.0.1
-- python=3.6.6
+- matplotlib
+- numpy
 - scipy
 - pillow
 
