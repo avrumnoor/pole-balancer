@@ -8,6 +8,28 @@
 
 Pole Balancer is a Python program that uses reinforcement learning (RL) to automatically design a policy for the classic controls problem of a cart balancing a pole. Through Markov decision processes framework, we can perform reinforcement learning without having any explicit knowledge of the physics of the underlying system, in our case, the pole on the cart.
 
+## Requirements
+- Ubuntu 18.04+, macOS 10.15+ and Windows 10+ (64-bit)
+- At least 5GB of memory
+- Anaconda/Miniconda
+- Python 3.9 or above
+- A Python IDE (Jupyter/PyCharm)
+
+## Getting Started
+
+Install the following Python packages:
+- matplotlib=2.2.2
+- numpy=1.15.0
+- pip=10.0.1
+- python=3.6.6
+- scipy
+- pillow
+
+Run 
+`python polebalancer.py`
+
+***
+
 ## Model
 
 A thin pole is hinged to a cart. The cart moves laterally on a smooth table surface. The program fails if either the angle of the pole deviates by more than a particular amount from the vertical position (i.e., if the pole falls over), or if the cart’s position goes out of bounds (i.e., if it falls off the end of the table). 
