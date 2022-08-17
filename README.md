@@ -20,7 +20,7 @@ Balance the pole with these constraints, by appropriately having the cart accele
 
 ## Author
 
-Avrum Noor
+(Avrum Noor)[https://github.com/avrumnoor]
 
 <a href="https://www.buymeacoffee.com/avrumnoor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a> 
 
@@ -29,4 +29,4 @@ Avrum Noor
 
 ## Acknowledgements
 
-Anand Avati 
+[Anand Avati](https://avati.github.io/)
